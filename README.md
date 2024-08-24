@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhargav</h1>
 <h3 align="center">Senior software developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://gifer.com/en/6tXM"">
+<img align="right" alt="coding" width="400" src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhargav3812&label=Profile%20views&color=0e75b6&style=flat" alt="bhargav3812" /> </p>
 
