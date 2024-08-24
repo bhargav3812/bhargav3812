@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bhargav kattamanchi</h1>
+<h1 align="center">Hi 👋, I'm Bhargav</h1>
 <h3 align="center">Senior software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG9tdmU5dzkyY2pybTFubGE2N2ZsbnFsYzh5b3Vnem9wbjMwZjZ0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">
 
